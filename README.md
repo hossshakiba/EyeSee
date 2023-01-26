@@ -1,4 +1,4 @@
-# A Retinal Diseases Classification Task :eyes: :capital_abcd:
+# A Retinal Diseases Classification Task 👁️ :capital_abcd:
 
 ## Overview
 A retinal diseases classifier that classifies fundus retinal images into four categories of **Normal, Cataract, Diabetic Retinopathy, and Glaucoma**.
