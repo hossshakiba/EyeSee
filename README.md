@@ -12,7 +12,7 @@ The dataset consists of Normal, Diabetic Retinopathy, Cataract and Glaucoma reti
   <img src="/images/glaucoma.jpg" width="200" title="Glaucoma"/>
 </p>
 
-## Model 
+## Model
 The lightweight CNN proposed model consists of three convolution layers with some BatchNormalization and Dropout layers used for regularization.
 
 ```python
@@ -65,3 +65,8 @@ The following figure is the confusion matrix of the test data set;
   <img src="/images/confusion_matrix.png" title="confusion matrix"/>
 </p>
 
+# Contribution
+If you are interested in contributing to the project, please follow these steps:
+1. Fork the repository
+2. Create a new branch for your changes
+3. Commit your changes and open a pull request
