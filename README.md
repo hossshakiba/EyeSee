@@ -1,4 +1,4 @@
-# A Retinal Diseases Classification Task 👁️ :capital_abcd:
+# EyeSee: A Deep Learning Model for Retinal Disease Classification 👁️
 
 ## Overview
 A retinal diseases classifier that classifies fundus retinal images into four categories of **Normal, Cataract, Diabetic Retinopathy, and Glaucoma**.
