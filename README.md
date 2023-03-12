@@ -61,7 +61,7 @@ The model was trained for 90 epochs using stochastic gradient descent (SGD) with
 
 The model's performance was evaluated using precision, recall, and F1-score for each class, as well as the overall accuracy. The precision values for each class were above 0.9, indicating that when the model predicts a certain class, it is highly likely to be correct. The recall values were also quite high, ranging from 0.90 to 0.97, indicating that the model is effective in identifying positive instances for each class. The F1-score, which provides a balanced measure of precision and recall, was also high for each class.
 ## Confusion Matrix
-Here is the confusion matrix of the test dataset;
+The following figure is the confusion matrix of the **test** dataset:
 <p class="row" float="left" align="middle">
   <img src="/images/confusion_matrix.png" title="confusion matrix"/>
 </p>
